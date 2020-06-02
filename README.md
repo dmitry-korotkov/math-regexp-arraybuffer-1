@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gs83klfndh1uld7k?svg=true)](https://ci.appveyor.com/project/dmitry-korotkov/math-regexp-arraybuffer-1)
